@@ -1,0 +1,15 @@
+{
+  "development": {
+    "PORT": 3000,
+    "DB": "plp_xcx",
+    "MONGODB_URI":"mongodb://localhost:27017/plp_xcx",
+    "APPID": "wx99cbc3f161df8e54",
+    "SECRET": "fb9755e7c616523ddba5d03318573cff",
+    "ALIYUN": {
+      "BUCKET": "file-path",
+      "REGION": "oss-cn-beijing",
+      "ACCESSKEYID": "LTAIRvzCNuRUdjPW",
+      "ACCESSKEYSECRET": "hxPuzQCCwL5PDJnQfr8kC7uMdXGk0r"
+    }
+  }
+}
